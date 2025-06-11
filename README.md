@@ -39,7 +39,7 @@ A task management web application built using **Next.js**, **React**, **TypeScri
 ```bash
 git clone https://github.com/userexists123/collaborative-tasks-manager.git
 
-cd collaborative-task-manager
+cd collaborative-tasks-manager
 
 npm i
 
