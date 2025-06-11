@@ -37,7 +37,7 @@ A task management web application built using **Next.js**, **React**, **TypeScri
 ### 1. Installation & Running
 
 ```bash
-git clone https://github.com/userexists123/collaborative-task-manager.git
+git clone https://github.com/userexists123/collaborative-tasks-manager.git
 
 cd collaborative-task-manager
 
